@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Project\\20220506\\Zombies-Factory\\contracts\\Contract.sol": {
+      "lastModificationDate": 1651837214971,
+      "contentHash": "54fdf58c20a5bd54dba9c1dbb61400a1",
+      "sourceName": "contracts/Contract.sol",
+      "solcConfig": {
+        "version": "0.5.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.6.0"
+      ],
+      "artifacts": [
+        "ZombieFactory"
+      ]
+    }
+  }
+}
